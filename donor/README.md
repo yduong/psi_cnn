@@ -8,7 +8,7 @@ common functions
 
 ## ipython
 - preprocess: extract X,Y from data files. Clean/normalize/encode X,Y
-- analytics: plot chart, diagrams to find patterns in preprocessed data
+- analytics: plot charts, diagrams to find patterns in preprocessed data
 - model: build a model using preprocessed data
 - result: analyze the result predicted using the model trained in the previous step
 
