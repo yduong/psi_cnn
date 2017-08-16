@@ -1,7 +1,7 @@
 # Structures
 
 ## data
-folder contains of data files (not commit due the large file zie)
+folder contains of data files (not commit due the large file size)
 
 ## helper
 common functions
