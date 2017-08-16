@@ -1,6 +1,6 @@
 # Structures
 
-##data
+## data
 folder contains of data files (not commit due the large file zie)
 
 *helper
