@@ -15,5 +15,5 @@ common functions
 ## hyperopt
 script to run hyperopt to find the optimal model/params
 
-## results
-contain intermediate files (when running preprocess,model file). Not commited
+## results (Not commit)
+contain intermediate files (when running preprocess,model file)
